@@ -1,5 +1,5 @@
 {
-    "name": "coreshop/payum-stripe-bundle",
+    "name": "leo-moshko/payum-stripe-bundle",
     "type": "pimcore-bundle",
     "description": "CoreShop - Stripe Bundle",
     "keywords": [
@@ -32,7 +32,7 @@
     ],
     "require": {
         "php": ">=8.0",
-        "flux-se/payum-stripe": "^2.0",
+        "leo-moshko/payum-stripe": "^1.0",
         "coreshop/core-shop": "^3.0 || ^4.0"
     },
     "require-dev": {
